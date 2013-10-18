@@ -6,6 +6,8 @@
 
 QT       += core gui
 
+QT += gui declarative
+
 TARGET = HardDay
 TEMPLATE = app
 

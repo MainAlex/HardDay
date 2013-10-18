@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QSystemTrayIcon>
-#include<ctime>
+#include <ctime>
 #include "timecontrol.h"
 
 namespace Ui {
